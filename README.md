@@ -1,5 +1,13 @@
-STRUCTURE
 
+참고 
+https://hdongle.tistory.com/202
+https://ultrakid.tistory.com/21
+
+
+1) 환경
+ - 아나콘다 name=tf115, python==3.7.0
+
+STRUCTURE
 model - ballon - datasets - train/val
 
 
